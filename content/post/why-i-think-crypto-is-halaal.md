@@ -8,13 +8,14 @@ summary: "Cryptocurrency works on blockchain and blockchain is a decentralized s
 
 # Is Cryptocurrencies Halaal? Some myths about Cryptocurrencies.
 
+To read urdu version of this post [click here](/ur/why-i-think-crypto-is-halaal).
   
 
 # Introduction
 
 Cryptocurrency is essentially a digital means of currency exchange and digital payments platform that uses blockchain technology.
 
-  
+![enter image description here](https://media1.giphy.com/media/WT9wi81vtEhqt17SE4/giphy.gif?cid=ecf05e47embdp2tb0r26t355abpce3v1zmcslxwd5intwk49&rid=giphy.gif&ct=g)
 
 # Why this post?
 

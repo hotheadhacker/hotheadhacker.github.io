@@ -8,13 +8,14 @@ summary: "کریپٹو کرنسی بلاکچین پر کام کرتی ہے او�
 
 # کیا کرپٹو کرنسی حلال ہے؟ کرپٹو کرنسیوں کے بارے میں کچھ خرافات۔
 
-  
+To read english version of this post [click here](/why-i-think-crypto-is-halaal).
 
 # تعارف
 
 کریپٹو کرنسی بنیادی طور پر کرنسی کے تبادلے کا ایک ڈیجیٹل ذریعہ اور ڈیجیٹل ادائیگیوں کا پلیٹ فارم ہے جو بلاک چین ٹیکنالوجی کا استعمال کرتا ہے۔
 
-  
+
+![enter image description here](https://media1.giphy.com/media/WT9wi81vtEhqt17SE4/giphy.gif?cid=ecf05e47embdp2tb0r26t355abpce3v1zmcslxwd5intwk49&rid=giphy.gif&ct=g)
 
 # یہ پوسٹ کیوں؟
 
