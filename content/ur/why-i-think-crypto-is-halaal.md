@@ -1,127 +1,123 @@
 ---
-title: "Why I Think Crypto Is Halaal? Some myths about Cryptocurrencies"
+title: "مجھے کیوں لگتا ہے کہ کرپٹو حلال ہے؟ کرپٹو کرنسیوں کے بارے میں کچھ خرافات"
 date: 2022-06-23T01:59:03+05:30
-draft: true
-summary: "Cryptocurrency works on blockchain and blockchain is a decentralized system that is not governed by a country or an organization. Its circulation is limited (some exceptions) and its value may increase decrease and these tokens are mined similarly it possesses characteristics just like gold."
+draft: false
+summary: "کریپٹو کرنسی بلاکچین پر کام کرتی ہے اور بلاکچین ایک غیر مرکزی نظام ہے جس پر کسی ملک یا تنظیم کے زیر انتظام نہیں ہے۔ اس کی گردش محدود ہے (کچھ مستثنیات) اور اس کی قیمت میں کمی واقع ہو سکتی ہے اور یہ ٹوکن اسی طرح کان کنی کیے جاتے ہیں جس طرح یہ سونے کی طرح خصوصیات کا حامل ہے۔"
 ---
   
 
-# Is Cryptocurrencies Halaal? Some myths about Cryptocurrencies.
+# کیا کرپٹو کرنسی حلال ہے؟ کرپٹو کرنسیوں کے بارے میں کچھ خرافات۔
 
   
 
-# Introduction
+# تعارف
 
-Cryptocurrency is essentially a digital means of currency exchange and digital payments platform that uses blockchain technology.
-
-  
-
-# Why this post?
-
-The fact there are still some people out there who think that cryptocurrency is not halal or authentic according to Islam I have personally talk to lot of people what actually make them feel this way but trust me most of them actually didn't know how crypto currency works but on other hand some people new the logic behind cryptocurrency and they had some valid reasons also like they are some cryptocurrencies that clearly supports products, causes and ideology that is against Islam.
+کریپٹو کرنسی بنیادی طور پر کرنسی کے تبادلے کا ایک ڈیجیٹل ذریعہ اور ڈیجیٹل ادائیگیوں کا پلیٹ فارم ہے جو بلاک چین ٹیکنالوجی کا استعمال کرتا ہے۔
 
   
 
-But based on hand full of tokens or coins we cannot say that cryptocurrency as whole is haram. It is certain that we should avoid those crypto tokens.
+# یہ پوسٹ کیوں؟
+
+حقیقت یہ ہے کہ وہاں اب بھی کچھ لوگ موجود ہیں جو یہ سمجھتے ہیں کہ اسلام کے مطابق کرپٹو کرنسی حلال یا مستند نہیں ہے میں نے ذاتی طور پر بہت سے لوگوں سے بات کی ہے جس کی وجہ سے وہ اس طرح محسوس کرتے ہیں لیکن مجھ پر یقین کریں کہ ان میں سے اکثر کو حقیقت میں یہ نہیں معلوم تھا کہ کرپٹو کرنسی کیسے ہوتی ہے۔ کام کرتا ہے لیکن دوسری طرف کچھ لوگ cryptocurrency کے پیچھے نئی منطق پیش کرتے ہیں اور ان کے پاس کچھ درست وجوہات بھی تھیں جیسے کہ یہ کچھ cryptocurrencies ہیں جو واضح طور پر مصنوعات، اسباب اور نظریے کی حمایت کرتی ہیں جو کہ اسلام کے خلاف ہے۔
 
   
 
-It's like saying I don't use mobile phone because it has a music player in it, well having a music player in it does not mean you are going to play music in it you can play MP3 Quran or any other thing that is not prohibited so it's just an analogy I guess a silly one 😅. But I hope you understand my point.
+لیکن ٹوکن یا سکوں سے بھرے ہاتھ کی بنیاد پر ہم یہ نہیں کہہ سکتے کہ مجموعی طور پر کرپٹو کرنسی حرام ہے۔ یہ یقینی ہے کہ ہمیں ان کرپٹو ٹوکنز سے بچنا چاہیے۔
 
   
 
-# Why do I think cryptocurrencies aren't haraam?
-
-I believe that cryptocurrencies are more authentic and more genuine means of transaction that's actually how the transaction was meant to be not just relying on a value with respect to US dollar (fiat) whose value and amount of circulation ( causes inflation, riches getting richer and poor getting poorer) is governed by the people whome we don't even know or we don't know there intentions. They can circulate how much of dollars as they want and your country is obligated to follow that because all other countries wanted to centralise the assets instead of directly setting the value of the respective currency to the world's available natural assets like gold after world war II
+یہ ایسا ہی ہے کہ میں موبائل فون استعمال نہیں کرتا کیونکہ اس میں میوزک پلیئر ہے، اس میں میوزک پلیئر ہونے کا مطلب یہ نہیں ہے کہ آپ اس میں میوزک بجانے جارہے ہیں آپ MP3 قرآن یا کوئی اور چیز چلا سکتے ہیں جس کی ممانعت نہیں ہے۔ تو یہ صرف ایک مشابہت ہے میرے خیال میں ایک احمقانہ 😅۔ لیکن امید ہے آپ میری بات سمجھ گئے ہوں گے۔
 
   
 
-- To make a fully understand why I think to currencies more authentic then actual paper money. Let me give you a brief gist how transaction in exchange of an interest were happening and how we ended up with paper money and why it needs to be changed.
+# میرے خیال میں کریپٹو کرنسیز حرام کیوں نہیں ہیں؟
+
+میرا ماننا ہے کہ کریپٹو کرنسی زیادہ مستند اور لین دین کے زیادہ حقیقی ذرائع ہیں کہ اصل میں لین دین کا مقصد صرف امریکی ڈالر (فیاٹ) کے حوالے سے کسی قدر پر انحصار کرنا نہیں تھا جس کی قدر اور گردش کی مقدار (مہنگائی، دولت کے مزید امیر ہونے اور غریب تر ہوتا جارہا ہے) ان لوگوں کے زیر انتظام ہے جنہیں ہم نہیں جانتے یا ہمیں وہاں کے ارادوں کا پتہ نہیں ہے۔ وہ جتنے ڈالر چاہیں گردش کر سکتے ہیں اور آپ کا ملک اس پر عمل کرنے کا پابند ہے کیونکہ دیگر تمام ممالک متعلقہ کرنسی کی قدر کو دنیا کے دستیاب قدرتی اثاثوں جیسے دوسری جنگ عظیم کے بعد سونے جیسے براہ راست متعین کرنے کے بجائے اثاثوں کو مرکزی بنانا چاہتے تھے۔
 
   
 
-Well back in early days when people had to trade they use barter system where they were directly trading something with respect to something let's say if a person A wanted to buy fruits from person B, but the person A had to pay exact value that those fruits were of obviously the person A cannot pay in fruits because he don't have any that's why he is purchasing that. To close the deal person A pays exact value in chicken eggs that of fruits.
+- یہ مکمل طور پر سمجھنے کے لیے کہ میں کیوں کرنسیوں کو اصل کاغذی رقم سے زیادہ مستند سمجھتا ہوں۔ میں آپ کو ایک مختصر خلاصہ بتاتا ہوں کہ سود کے بدلے میں لین دین کیسے ہو رہا تھا اور ہمارے پاس کاغذی رقم کیسے ختم ہوئی اور اسے تبدیل کرنے کی ضرورت کیوں ہے۔
 
   
 
-But the problem with above scenario was what if person B never wanted eggs but to make a sale they had to make some kind of sacrifice in those days in barter system.
+ٹھیک ہے ابتدائی دنوں میں جب لوگوں کو تجارت کرنا ہوتی تھی تو وہ بارٹر سسٹم کا استعمال کرتے تھے جہاں وہ کسی چیز کے حوالے سے براہ راست کسی چیز کی تجارت کرتے تھے چلیں اگر کوئی شخص A شخص B سے پھل خریدنا چاہتا تھا، لیکن شخص A کو ان پھلوں کی صحیح قیمت ادا کرنی پڑتی تھی۔ ظاہر ہے کہ اس شخص کا تھا A پھلوں کی ادائیگی نہیں کرسکتا کیونکہ اس کے پاس کچھ نہیں ہے اس لئے وہ اسے خرید رہا ہے۔ ڈیل کو بند کرنے کے لیے A مرغی کے انڈوں کی صحیح قیمت ادا کرتا ہے جو کہ پھلوں کی ہے۔
 
   
 
-That is why people wanted to get something that has a value that can be exchanged in spite of its form that is why gold coins where introduced so if a person wanted to purchase fruits he can give some amount of gold coin and person B can re-use those coins and purchase something that he was interested in.
+لیکن مندرجہ بالا منظر نامے کے ساتھ مسئلہ یہ تھا کہ اگر شخص B کبھی انڈے نہیں چاہتا تھا لیکن اسے فروخت کرنے کے لیے ان دنوں بارٹر سسٹم میں کسی قسم کی قربانی دینی پڑتی تھی۔
 
   
 
-- Here is the catch
+یہی وجہ ہے کہ لوگ ایسی چیز حاصل کرنا چاہتے تھے جس کی کوئی قیمت ہو جس کی شکل کے باوجود اس کا تبادلہ کیا جا سکے اسی لیے جہاں سونے کے سکے متعارف کرائے گئے ہیں اگر کوئی شخص پھل خریدنا چاہتا ہے تو وہ سونے کے سکہ کی کچھ مقدار دے سکتا ہے اور شخص B دوبارہ خرید سکتا ہے۔ ان سکوں کا استعمال کریں اور کوئی ایسی چیز خریدیں جس میں اسے دلچسپی ہو۔
 
   
 
-People were not comfortable carrying gold coins across and those gold coins had very highest value let's say if a person wanted to buy small goods so buying with gold coin was not a good option because it would be 1000 part of it so the transactions will not accurate and people tried to find more accurate way to do transactions.
+- یہاں ایک اہم بات ہے۔
 
   
 
-Thats why paper based money (fiat) was introduced, tell here you would have some idea that the way we make transaction is bound to change we cannot rely on one particular mode, it's a human nature would always try to find a better and improved version of what was already existing.
+لوگ سونے کے سکوں کو لے جانے میں آرام سے نہیں تھے اور ان سونے کے سکوں کی قیمت بہت زیادہ تھی کہ اگر کوئی شخص چھوٹی چیزیں خریدنا چاہتا ہے تو سونے کے سکے کے ساتھ خریدنا اچھا آپشن نہیں تھا کیونکہ یہ اس کا 1000 حصہ ہوگا اس لیے لین دین درست نہیں ہوگا۔ اور لوگوں نے لین دین کرنے کا زیادہ درست طریقہ تلاش کرنے کی کوشش کی۔
 
   
 
-But when fait money came, it made entry of banking system so strong that most of the Muslim countries are slaves to this system, credit systems, loans, life insurance and interest based schemes were also born. Which I believe is major fall of Muslim era.
+اسی لیے کاغذ پر مبنی رقم (fiat) متعارف کروائی گئی، یہاں بتائیے کہ آپ کو کچھ اندازہ ہو گا کہ جس طرح سے ہم لین دین کرتے ہیں وہ بدلنے کا پابند ہے، ہم کسی ایک موڈ پر بھروسہ نہیں کر سکتے، یہ انسانی فطرت ہے کہ ہمیشہ بہتر اور بہتر ورژن تلاش کرنے کی کوشش کرتی ہے۔ جو پہلے سے موجود تھا۔
 
   
 
-Cryptocurrency works on blockchain and blockchain is a decentralized system that is not governed by a country or an organization. Its circulation is limited (some exceptions) and its value may increase decrease and these tokens are mined similarly it possesses characteristics just like gold.
+لیکن جب پیسہ آیا تو اس نے بینکنگ سسٹم کو اتنا مضبوط کر دیا کہ اکثر مسلم ممالک اس نظام کے غلام ہیں، کریڈٹ سسٹم، قرضے، لائف انشورنس اور سود پر مبنی سکیموں نے بھی جنم لیا۔ جسے میں مسلم دور کا ایک بڑا زوال سمجھتا ہوں۔
 
   
 
-The authentic part is that every transaction gets recorded permanently and is open to everyone anyone connected to the blockchain network can see what transaction has been made from which wallet (just like your bank account number but in a different way).
+کریپٹو کرنسی بلاکچین پر کام کرتی ہے اور بلاکچین ایک غیر مرکزی نظام ہے جس پر کسی ملک یا تنظیم کے زیر انتظام نہیں ہے۔ اس کی گردش محدود ہے (کچھ مستثنیات) اور اس کی قیمت میں کمی واقع ہو سکتی ہے اور یہ ٹوکن اسی طرح کان کنی کیے جاتے ہیں جس طرح یہ سونے کی طرح خصوصیات کا حامل ہے۔
 
   
 
-I believe cryptocurrencies will eliminate central banks that are the main cause behind world hunger and poverty and prohibited in islam. We all are in this banking system even of we want or not and cryptocurrencies are way out of it and an upgrade to the way we transact.
+مستند حصہ یہ ہے کہ ہر ٹرانزیکشن کو مستقل طور پر ریکارڈ کیا جاتا ہے اور بلاکچین نیٹ ورک سے منسلک ہر شخص کے لیے کھلا ہے جو بھی دیکھ سکتا ہے کہ کس بٹوے سے کیا ٹرانزیکشن ہوا ہے (جیسے آپ کے بینک اکاؤنٹ نمبر لیکن مختلف طریقے سے)۔
 
   
 
-# What Aalims say
-
-A comprehensive Islamic interpretation, one that sparked a massive rise in Muslim investment in Bitcoin and Ethereum in 2018, was provided by Sharia advisor Mufti Muhammad Abu-Bakar (former advisor to Blossom Finance) who argued that Bitcoin is permissible under Shariah law. He considered arguments that crypto itself was speculative, but his view was that all currencies have a speculative element and this did not automatically deem crypto as haram.
+مجھے یقین ہے کہ cryptocurrencies مرکزی بینکوں کو ختم کر دیں گی جو کہ دنیا کی بھوک اور غربت کی بنیادی وجہ ہیں اور اسلام میں ممنوع ہیں۔ ہم سب اس بینکنگ سسٹم میں ہیں چاہے ہم چاہیں یا نہ چاہیں اور کریپٹو کرنسی اس سے نکلنے کا راستہ ہے اور ہمارے لین دین کے طریقے میں ایک اپ گریڈ ہے۔
 
   
 
-From the perspective of Islamic contract rules, there must be an element of consideration - Mal. Mal refers to possession and effective storage, and cryptocurrencies meet the criteria required as they can be possessed and stored and have commercial value (Mutaqawwam). Crypto is a real and viable digital asset, its worth and value lies in what is paid for it, and it is capable of being owned and traded commercially so the Shariah requirements are satisfied.
+# عالم کیا کہتے ہیں۔
+
+ایک جامع اسلامی تشریح، جس نے 2018 میں Bitcoin اور Ethereum میں مسلمانوں کی سرمایہ کاری میں بڑے پیمانے پر اضافہ کو جنم دیا، شریعت کے مشیر مفتی محمد ابوبکر (سابق مشیر برائے بلاسم فنانس) نے فراہم کیا جس نے دلیل دی کہ Bitcoin شرعی قانون کے تحت جائز ہے۔ اس نے ان دلائل کو سمجھا کہ کرپٹو بذات خود قیاس آرائی ہے، لیکن اس کا نظریہ یہ تھا کہ تمام کرنسیوں میں قیاس آرائی کا عنصر ہوتا ہے اور یہ خود بخود کرپٹو کو حرام نہیں سمجھتا تھا۔
 
   
 
-The Shacklewell Lane Mosque in East London became one of the first mosques in the UK to accept cryptocurrency donations and Zakat contributions in 2018 during Ramadan.
+اسلامی معاہدہ کے اصولوں کے نقطہ نظر سے، غور کرنے کا ایک عنصر ہونا چاہیے - مال۔ مال سے مراد ملکیت اور موثر ذخیرہ ہے، اور کریپٹو کرنسیاں مطلوبہ معیار پر پورا اترتی ہیں کیونکہ ان کے پاس اور ذخیرہ کیا جا سکتا ہے اور ان کی تجارتی قیمت (متقاوام) ہے۔ کریپٹو ایک حقیقی اور قابل عمل ڈیجیٹل اثاثہ ہے، اس کی قیمت اور قدر اس بات میں ہے کہ اس کے لیے ادائیگی کی جاتی ہے، اور یہ تجارتی طور پر ملکیت اور تجارت کرنے کے قابل ہے لہذا شرعی تقاضے پورے ہوں۔
 
   
 
-# DIGITAL CURRENCIES AND SHARIAH LAW
+مشرقی لندن کی شیکل ویل لین مسجد 2018 میں رمضان کے دوران کرپٹو کرنسی کے عطیات اور زکوٰۃ کے عطیات کو قبول کرنے والی برطانیہ کی پہلی مساجد میں سے ایک بن گئی۔
+  
+
+# ڈیجیٹل کرنسیاں اور شرعی قانون
 
   
 
-Islamic finance principles dictates that in order for income, or investing in any product or asset, to be deemed halal it has to meet certain criteria. The principles of Shariah law should be applied to the financial systems we operate in and there has been some discussion about whether rules devised centuries ago can still be applied to a technologically modern digital financial marketplace.
+اسلامی مالیاتی اصول یہ حکم دیتے ہیں کہ آمدنی کے لیے، یا کسی بھی پروڈکٹ یا اثاثے میں سرمایہ کاری کو حلال ماننے کے لیے اسے کچھ معیارات پر پورا اترنا ہوگا۔ شرعی قانون کے اصولوں کا اطلاق ان مالیاتی نظاموں پر ہونا چاہیے جن میں ہم کام کرتے ہیں اور اس بارے میں کچھ بحث ہوئی ہے کہ آیا صدیوں پہلے وضع کیے گئے قوانین کو اب بھی تکنیکی طور پر جدید ڈیجیٹل مالیاتی بازار پر لاگو کیا جا سکتا ہے۔
 
   
 
-The answer quite simply is yes, Shariah principles can be applied to modern crypto analysis as they are based on social justice, accountability and ethics which transcend all forms of financial transactions. As long as there is no illegal activity, then trading or investing in crypto should not be deemed to be contrary to Shariah principles. [Ref Here](https://www.qardus.com/news/what-is-cryptocurrency-and-is-it-halal)
+اس کا جواب بالکل سیدھا ہے ہاں، شرعی اصولوں کا اطلاق جدید کرپٹو تجزیہ پر کیا جا سکتا ہے کیونکہ وہ سماجی انصاف، احتساب اور اخلاقیات پر مبنی ہیں جو مالی لین دین کی تمام اقسام سے بالاتر ہیں۔ جب تک کوئی غیر قانونی سرگرمی نہ ہو، تب تک کرپٹو میں تجارت یا سرمایہ کاری کو شرعی اصولوں کے منافی نہیں سمجھا جانا چاہیے۔ [یہاں کا حوالہ دیں۔](https://www.qardus.com/news/what-is-cryptocurrency-and-is-it-halal)
 
   
 
-# Final Comments
+# حتمی تبصرے
 
   
 
-There are some cryptocurrencies out there which are clearly against our sharia and islam we must do our research before making any transactions or any trade. We need to look into the whitepaper( a detailed information about the particular token) of the ever cryptocurrency we deal with.
+وہاں کچھ کرپٹو کرنسیز موجود ہیں جو واضح طور پر ہماری شریعت اور اسلام کے خلاف ہیں ہمیں کوئی بھی لین دین یا کوئی بھی تجارت کرنے سے پہلے اپنی تحقیق کرنی چاہیے۔ ہمیں کسی بھی کرپٹو کرنسی کے وائٹ پیپر (خاص ٹوکن کے بارے میں تفصیلی معلومات) کو دیکھنے کی ضرورت ہے۔
 
   
 
-## P.S: I may have done lot of errors in this post both logical and typing mistakes,
+## میں بھی کہنا چاہتا ہوں۔: ہو سکتا ہے کہ میں نے اس پوسٹ میں کچھ منطقی غلطیاں کی ہوں۔
+  
 
-for typing mistakes, I felt lazy to type this long post so I used voice to text software.
+جہاں تک مجھ سے کوئی منطقی غلطی ہوئی ہے، براہ کرم مجھے درست جواز کے ساتھ بتائیں، تاکہ میں خود کو درست کر سکوں۔
 
   
 
-as far as if I have made some logical error, please let me know with valid justification, so I can correct myself.
-
-  
-
-May Allah swt guide us all and help us in getting rid of banking system.
+اللہ تعالیٰ ہم سب کو ہدایت دے اور بینکنگ سسٹم سے نجات دلانے میں ہماری مدد کرے۔
