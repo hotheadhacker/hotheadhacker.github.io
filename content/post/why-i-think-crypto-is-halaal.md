@@ -1,7 +1,7 @@
 ---
 title: "Why I Think Crypto Is Halaal? Some myths about Cryptocurrencies"
 date: 2022-06-23T01:59:03+05:30
-draft: true
+draft: false
 summary: "Cryptocurrency works on blockchain and blockchain is a decentralized system that is not governed by a country or an organization. Its circulation is limited (some exceptions) and its value may increase decrease and these tokens are mined similarly it possesses characteristics just like gold."
 ---
   
