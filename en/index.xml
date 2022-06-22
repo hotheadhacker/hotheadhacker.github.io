@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ens on Salman&#39;s blog</title>
-    <link>https://meik2333.com/en/</link>
+    <link>https://isalman.dev/en/</link>
     <description>Recent content in Ens on Salman&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 22 Jun 2022 19:09:22 +0530</lastBuildDate><atom:link href="https://meik2333.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jun 2022 19:09:22 +0530</lastBuildDate><atom:link href="https://isalman.dev/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Initialize GitHub Like Blog</title>
-      <link>https://meik2333.com/en/init/</link>
+      <link>https://isalman.dev/en/init/</link>
       <pubDate>Wed, 22 Jun 2022 19:09:22 +0530</pubDate>
       
-      <guid>https://meik2333.com/en/init/</guid>
+      <guid>https://isalman.dev/en/init/</guid>
       <description>Introduction Hello World, this is my attempt to implement github like blog using static site generator with markdown support.
 Lets see were we will go.</description>
     </item>

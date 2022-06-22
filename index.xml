@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Salman&#39;s blog</title>
-    <link>https://meik2333.com/</link>
+    <link>https://isalman.dev/</link>
     <description>Recent content on Salman&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 22 Jun 2022 19:09:22 +0530</lastBuildDate><atom:link href="https://meik2333.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jun 2022 19:09:22 +0530</lastBuildDate><atom:link href="https://isalman.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GitHub کو بلاگ کی طرح شروع کریں۔</title>
-      <link>https://meik2333.com/ur/init/</link>
+      <link>https://isalman.dev/ur/init/</link>
       <pubDate>Wed, 22 Jun 2022 19:09:22 +0530</pubDate>
       
-      <guid>https://meik2333.com/ur/init/</guid>
+      <guid>https://isalman.dev/ur/init/</guid>
       <description>تعارف ہیلو ورلڈ، یہ میری کوشش ہے کہ مارک ڈاؤن سپورٹ کے ساتھ جامد سائٹ جنریٹر کا استعمال کرتے ہوئے بلاگ کی طرح گیتھب کو لاگو کیا جائے۔
 دیکھتے ہیں کہ ہم جائیں گے۔</description>
     </item>
     
     <item>
       <title>Initialize GitHub Like Blog</title>
-      <link>https://meik2333.com/cn/init/</link>
+      <link>https://isalman.dev/cn/init/</link>
       <pubDate>Wed, 22 Jun 2022 19:09:22 +0530</pubDate>
       
-      <guid>https://meik2333.com/cn/init/</guid>
+      <guid>https://isalman.dev/cn/init/</guid>
       <description>Introduction Hello World, this is my attempt to implement github like blog using static site generator with markdown support.
 Lets see were we will go.</description>
     </item>
     
     <item>
       <title>Initialize GitHub Like Blog</title>
-      <link>https://meik2333.com/en/init/</link>
+      <link>https://isalman.dev/en/init/</link>
       <pubDate>Wed, 22 Jun 2022 19:09:22 +0530</pubDate>
       
-      <guid>https://meik2333.com/en/init/</guid>
+      <guid>https://isalman.dev/en/init/</guid>
       <description>Introduction Hello World, this is my attempt to implement github like blog using static site generator with markdown support.
 Lets see were we will go.</description>
     </item>
     
     <item>
       <title>Initialize GitHub Like Blog</title>
-      <link>https://meik2333.com/post/init/</link>
+      <link>https://isalman.dev/post/init/</link>
       <pubDate>Wed, 22 Jun 2022 19:09:22 +0530</pubDate>
       
-      <guid>https://meik2333.com/post/init/</guid>
+      <guid>https://isalman.dev/post/init/</guid>
       <description>Introduction Hello World, this is my attempt to implement github like blog using static site generator with markdown support.
 Lets see were we will go.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://meik2333.com/readme/</link>
+      <link>https://isalman.dev/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://meik2333.com/readme/</guid>
+      <guid>https://isalman.dev/readme/</guid>
       <description>👋 Hello World! I&amp;rsquo;m Salman Qureshi a.k.a HotHeadHacker
 A passionate Full Stack Developer from Kashmir
  My blog has urdu version too check urdu version  Current OSS I&amp;rsquo;m working on:  hotheadhacker/nodejs-express-mysql2-mvc-boilerplate : A MVC project structure for nodejs, express and mysql (v2) with sql query-builder template/boilerplate. hotheadhacker/nodejs-tools : Let&amp;rsquo;s develop nodejs tools together!  </description>
