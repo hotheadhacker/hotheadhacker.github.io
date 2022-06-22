@@ -1,0 +1,47 @@
+baseURL = "https://meik2333.com/"
+languageCode = "zh-cn"
+title = "Salman's blog"
+theme = "github-style"
+googleAnalytics = "UA-123456-789"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Salman Qureshi"
+  description = "Your friendly neighbourhood printer fixer 🫠"
+  github = "hotheadhacker"
+  twitter = "salmanually"
+  instagram = "salmanually"
+  email = "contact@isalman.dev"
+  url = "https://isalman.dev"
+  keywords = "blog, google analytics"
+  rss = true
+  lastmod = true
+  userStatusEmoji = "😀"
+  favicon = "/images/avatar.png"
+  location = "Kashmir"
+  enableGitalk = false
+
+  [params.gitalk]
+    clientID = "" 
+    clientSecret = "" 
+    repo = "blog-comments"
+    owner = "hotheadhacker"
+    admin = "hotheadhacker"
+    id = "location.pathname"
+    labels = "gitalk"
+    perPage = 15
+    pagerDirection = "last"
+    createIssueManually = true
+    distractionFreeMode = false
+
+  [[params.links]]
+    title = "Link"
+    href = "https://github.com/hotheadhacker"
+  [[params.links]]
+    title = "Link2"
+    href = "https://isalman.dev"
+    icon = "https://avatars.githubusercontent.com/u/18418340?s=400&u=b5fe00151650174cfff9ff47dd3e0699c33f1774&v=4"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
