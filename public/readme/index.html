@@ -62,14 +62,14 @@ A passionate Full Stack Developer from Kashmir
 
 
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123456-789"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-005SCZ0FF4"></script>
 <script>
   if (navigator.doNotTrack !== '1') {
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
 
-    gtag('config', 'UA-123456-789');
+    gtag('config', 'G-005SCZ0FF4');
   }
 </script>
 
@@ -232,6 +232,24 @@ A passionate Full Stack Developer from Kashmir
 </div>
 <script type="application/javascript" src='https://isalman.dev/js/toc.js'></script>
 <link rel="stylesheet" href='https://isalman.dev/css/toc.css' />
+
+<div id="gitalk-container" class="gitalk-container"></div>
+<link rel="stylesheet" href='https://isalman.dev/css/gitalk.css'>
+<script src='https://isalman.dev/js/gitalk.min.js'></script>
+<script>
+  const gitalk = new Gitalk({
+    clientID: '4faed7d62c722f3b70f8',
+    clientSecret: 'ead79bc481425394dd8e1f0fdc3ed40aa639751a',
+    repo: 'blog-comments',
+    owner: 'hotheadhacker',
+    admin: ['hotheadhacker'],
+    id: eval("location.pathname"), 
+    distractionFreeMode: false 
+  });
+  (function() {
+    gitalk.render('gitalk-container');
+  })();
+</script>
 
 
   <div class="footer container-xl width-full p-responsive">
