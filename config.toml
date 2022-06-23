@@ -2,7 +2,7 @@ baseURL = "https://isalman.dev"
 languageCode = "zh-cn"
 title = "Salman's blog"
 theme = "github-style"
-googleAnalytics = "UA-123456-789"
+googleAnalytics = "G-005SCZ0FF4"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
@@ -20,11 +20,11 @@ pygmentsUseClasses = true
   userStatusEmoji = "😀"
   favicon = "/images/avatar.png"
   location = "Kashmir"
-  enableGitalk = false
+  enableGitalk = true
 
   [params.gitalk]
-    clientID = "" 
-    clientSecret = "" 
+    clientID = "4faed7d62c722f3b70f8" 
+    clientSecret = "ead79bc481425394dd8e1f0fdc3ed40aa639751a" 
     repo = "blog-comments"
     owner = "hotheadhacker"
     admin = "hotheadhacker"
