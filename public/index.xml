@@ -66,6 +66,18 @@ Lets see were we will go.</description>
     </item>
     
     <item>
+      <title>All You Need to Know About New Hermes Javascript Engine How to Migrate</title>
+      <link>https://isalman.dev/post/all-you-need-to-know-about-new-hermes-javascript-engine-how-to-migrate/</link>
+      <pubDate>Sat, 13 Jul 2019 20:04:45 +0530</pubDate>
+      
+      <guid>https://isalman.dev/post/all-you-need-to-know-about-new-hermes-javascript-engine-how-to-migrate/</guid>
+      <description>SO FACEBOOK JUST OPEN SOURCE ANOTHER JAVASCRIPT ENGINE NAMED AS HERMES.
+IT IS A JAVASCRIPT ENGINE SPECIFICALLY TAILORED FOR RUNNING WITH MOBILE APPLICATIONS THAT IS PRIMARILY WITH REACT NATIVE ON ANDROID BECAUSE ON IOS YOU ARE FORCED TO USE V8.
+ By Marc Horowitz
+Mobile applications are growing larger and more complex. Larger apps using JavaScript frameworks often experience performance issues as developers add features and complexity. These issues are generated from various spots, but the people using these apps expect them to run smoothly, regardless of the device they are on.</description>
+    </item>
+    
+    <item>
       <title>The Day When Facebook Stored User Passwords in Plain-Text Without Encryption – Facebook Apologized 😂</title>
       <link>https://isalman.dev/post/the-day-when-facebook-stored-password-as-plain-text/</link>
       <pubDate>Fri, 05 Apr 2019 20:01:49 +0530</pubDate>

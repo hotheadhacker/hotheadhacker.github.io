@@ -5,7 +5,7 @@ draft: false
 ---
 
 You wanna start you programming career and don’t know where to start it happens all the time with everyone. So without confusing you more, I’ll tell you some of the basics where to start and which programming language to go for.
-
+<!--more-->
 For the starters:
 
 The basic trend is to go for “C” Language as it’s said that its the mother of all of the languages!

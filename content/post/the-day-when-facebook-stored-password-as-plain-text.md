@@ -4,7 +4,7 @@ date: 2019-04-05T20:01:49+05:30
 draft: false
 ---
 
-Being a Tech Giant is not everything. Facebook holds majority of market in Social Media Networking Platform out there. Recently 3 days before on April 2nd 2019 Google abandoned it’s Social Media Platform ‘Google +’. Well if they would have abandoned it on 1st April it would have been April Fool’s day for the creators of Google Plus.
+Being a Tech Giant is not everything. Facebook holds majority of market in Social Media Networking Platform out there. Recently 3 days before on April 2nd 2019 Google abandoned it’s Social Media Platform ‘Google +’. <!--more--> Well if they would have abandoned it on 1st April it would have been April Fool’s day for the creators of Google Plus.
 
 Well coming back to Facebook , I am sci-fan & believe “**With Great Power Comes Greater Responsibility**” but having so much controversies within Facebook on security aspect – Well they come with nothing
 
