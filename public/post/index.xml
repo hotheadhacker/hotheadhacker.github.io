@@ -65,5 +65,15 @@ IT IS A JAVASCRIPT ENGINE SPECIFICALLY TAILORED FOR RUNNING WITH MOBILE APPLICAT
       <description>&lt;p&gt;You wanna start you programming career and don’t know where to start it happens all the time with everyone. So without confusing you more, I’ll tell you some of the basics where to start and which programming language to go for.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Learn Ajax in 5 Mins</title>
+      <link>https://isalman.dev/post/learn-ajax-in-5-mins/</link>
+      <pubDate>Wed, 29 Aug 2018 20:16:52 +0530</pubDate>
+      
+      <guid>https://isalman.dev/post/learn-ajax-in-5-mins/</guid>
+      <description>&lt;p&gt;Yes you heard it right! You can learn AJAX in 5 mins provided you have little concepts of javaScript and jQuery.&lt;/p&gt;
+&lt;p&gt;The method I am sharing with you right now will probably boot your AJAX skills.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
