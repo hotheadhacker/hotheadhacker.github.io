@@ -16,3 +16,4 @@ But let me pause you for a second, choosing a programming language as a fresher 
 -   Choosing a programming language without knowledge of its applications and limitations can be dangerous. Firstly find its application & if it suits you, you’re good to go.
 
 > This article was recovered from my old blog salmanually.com and reposted here on (26/06/2022)
+[Check orgiginal Archive.org - wayback version of this post](https://web.archive.org/web/20200813051713/https://salmanually.com/2018/11/28/want-to-start-your-programming-career-dont-know-where-to-start-this-3-min-article-might-help-you/)

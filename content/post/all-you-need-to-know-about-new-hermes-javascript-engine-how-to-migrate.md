@@ -117,3 +117,4 @@ This will compile JavaScript to bytecode during build time which will improve yo
 At the end, I will Show you a comparision between Hermes Engine & V8
 
 > This article was recovered from my old blog salmanually.com and reposted here on (26/06/2022)
+[Check orgiginal Archive.org - wayback version of this post](https://web.archive.org/web/20200814101001/https://salmanually.com/2019/07/13/all-you-need-to-know-about-new-hermes-javascript-engine-how-to-migrate/)

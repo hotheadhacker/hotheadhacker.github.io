@@ -40,3 +40,4 @@ It takes only few line of code to convert a plan text into cypher text. Also itâ
 
 > This article was recovered from my old blog salmanually.com and reposted here on (26/06/2022)
 
+[Check orgiginal Archive.org - wayback version of this post](https://web.archive.org/web/20200814101513/https://salmanually.com/2019/04/05/the-day-when-facebook-stored-user-passwords-in-plain-text-without-encrypted-facebook-apologized-%F0%9F%98%82/)

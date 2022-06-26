@@ -33,4 +33,4 @@ That is all, but one thing we need to worry about is a  **syntax**  that all dif
 > THERE IS A WAY THEY ARE ALWAYS.
 
 > This article was recovered from my old blog salmanually.com and reposted here on (26/06/2022)
-
+[Check orgiginal Archive.org - wayback version of this post](https://web.archive.org/web/20200814115047/https://salmanually.com/2019/07/08/become-full-stack-developer-only-with-this-programming-language/)
