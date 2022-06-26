@@ -57,6 +57,19 @@ IT IS A JAVASCRIPT ENGINE SPECIFICALLY TAILORED FOR RUNNING WITH MOBILE APPLICAT
     </item>
     
     <item>
+      <title>Learn React Js in 6 Minutes</title>
+      <link>https://isalman.dev/post/learn-react-js-in-6-minutes/</link>
+      <pubDate>Thu, 04 Apr 2019 20:25:58 +0530</pubDate>
+      
+      <guid>https://isalman.dev/post/learn-react-js-in-6-minutes/</guid>
+      <description>&lt;h2 id=&#34;a-quick-introduction-to-the-popular-javascript-library&#34;&gt;A quick introduction to the popular JavaScript library.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20200814103403/https://scrimba.com/g/glearnreact?ref=salmanually.com&#34;&gt;Just In case you want deep drive in react Click here to get to the free course on react.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Now let’s get started!&lt;/p&gt;
+&lt;h3 id=&#34;the-setup&#34;&gt;The setup&lt;/h3&gt;
+&lt;p&gt;When getting started with React, you should use the simplest setup possible: an HTML file which imports the  &lt;code&gt;React&lt;/code&gt;  and the  &lt;code&gt;ReactDOM&lt;/code&gt;  libraries using script tags, like this:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Want To Start Your Programming Career? Don’t Know Where To Start? This 3-Min Article Might Help You</title>
       <link>https://isalman.dev/post/start-your-programming-career/</link>
       <pubDate>Fri, 28 Sep 2018 19:43:43 +0530</pubDate>
