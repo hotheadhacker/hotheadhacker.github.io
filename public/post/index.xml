@@ -32,10 +32,10 @@ Lets see were we will go.</description>
       <pubDate>Sat, 13 Jul 2019 20:04:45 +0530</pubDate>
       
       <guid>https://isalman.dev/post/all-you-need-to-know-about-new-hermes-javascript-engine-how-to-migrate/</guid>
-      <description>SO FACEBOOK JUST OPEN SOURCE ANOTHER JAVASCRIPT ENGINE NAMED AS HERMES.
-IT IS A JAVASCRIPT ENGINE SPECIFICALLY TAILORED FOR RUNNING WITH MOBILE APPLICATIONS THAT IS PRIMARILY WITH REACT NATIVE ON ANDROID BECAUSE ON IOS YOU ARE FORCED TO USE V8.
- By Marc Horowitz
-Mobile applications are growing larger and more complex. Larger apps using JavaScript frameworks often experience performance issues as developers add features and complexity. These issues are generated from various spots, but the people using these apps expect them to run smoothly, regardless of the device they are on.</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;SO FACEBOOK JUST OPEN SOURCE ANOTHER JAVASCRIPT ENGINE NAMED AS HERMES.&lt;br&gt;
+IT IS A JAVASCRIPT ENGINE SPECIFICALLY TAILORED FOR RUNNING WITH MOBILE APPLICATIONS THAT IS PRIMARILY WITH REACT NATIVE ON ANDROID BECAUSE ON IOS YOU ARE FORCED TO USE V8.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
@@ -44,8 +44,7 @@ Mobile applications are growing larger and more complex. Larger apps using JavaS
       <pubDate>Fri, 05 Apr 2019 20:01:49 +0530</pubDate>
       
       <guid>https://isalman.dev/post/the-day-when-facebook-stored-password-as-plain-text/</guid>
-      <description>Being a Tech Giant is not everything. Facebook holds majority of market in Social Media Networking Platform out there. Recently 3 days before on April 2nd 2019 Google abandoned it’s Social Media Platform ‘Google +’. Well if they would have abandoned it on 1st April it would have been April Fool’s day for the creators of Google Plus.
-Well coming back to Facebook , I am sci-fan &amp;amp; believe “With Great Power Comes Greater Responsibility” but having so much controversies within Facebook on security aspect – Well they come with nothing</description>
+      <description>&lt;p&gt;Being a Tech Giant is not everything. Facebook holds majority of market in Social Media Networking Platform out there. Recently 3 days before on April 2nd 2019 Google abandoned it’s Social Media Platform ‘Google +’.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -54,10 +53,7 @@ Well coming back to Facebook , I am sci-fan &amp;amp; believe “With Great Powe
       <pubDate>Fri, 28 Sep 2018 19:43:43 +0530</pubDate>
       
       <guid>https://isalman.dev/post/start-your-programming-career/</guid>
-      <description>You wanna start you programming career and don’t know where to start it happens all the time with everyone. So without confusing you more, I’ll tell you some of the basics where to start and which programming language to go for.
-For the starters:
-The basic trend is to go for “C” Language as it’s said that its the mother of all of the languages!
-But let me pause you for a second, choosing a programming language as a fresher is really important because if you choose wrong the consequences are:</description>
+      <description>&lt;p&gt;You wanna start you programming career and don’t know where to start it happens all the time with everyone. So without confusing you more, I’ll tell you some of the basics where to start and which programming language to go for.&lt;/p&gt;</description>
     </item>
     
   </channel>
