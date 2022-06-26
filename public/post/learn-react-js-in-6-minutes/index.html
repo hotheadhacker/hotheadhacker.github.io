@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <script type="application/javascript" src='https://isalman.dev/js/theme-mode.js'></script>
+    <link rel="stylesheet" href='https://isalman.dev/css/frameworks.min.css' />
+    <link rel="stylesheet" href='https://isalman.dev/css/github.min.css' />
+    <link rel="stylesheet" href='https://isalman.dev/css/github-style.css' />
+    <link rel="stylesheet" href='https://isalman.dev/css/light.css' />
+    <link rel="stylesheet" href='https://isalman.dev/css/dark.css' />
+    <link rel="stylesheet" href='https://isalman.dev/css/syntax.css' />
+    <title>Learn React Js in 6 Minutes - Salman&#39;s blog</title>
+    
+    <link rel="icon" type="image/x-icon" href='/images/avatar.png'>
+    
+    <meta name="theme-color" content="#1e2327">
+
+    
+    <meta name="description"
+  content="A quick introduction to the popular JavaScript library. Just In case you want deep drive in react Click here to get to the free course on react.
+Now let’s get started!
+The setup When getting started with React, you should use the simplest setup possible: an HTML file which imports the React and the ReactDOM libraries using script tags, like this:
+" />
+<meta name="keywords"
+  content='blog, google analytics' />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://isalman.dev/post/learn-react-js-in-6-minutes/" />
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Learn React Js in 6 Minutes - Salman&#39;s blog" />
+<meta name="twitter:description"
+  content="A quick introduction to the popular JavaScript library. Just In case you want deep drive in react Click here to get to the free course on react.
+Now let’s get started!
+The setup When getting started with React, you should use the simplest setup possible: an HTML file which imports the React and the ReactDOM libraries using script tags, like this:
+" />
+<meta name="twitter:site" content="https://isalman.dev" />
+<meta name="twitter:creator" content="" />
+<meta name="twitter:image"
+  content="https://isalman.dev">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Learn React Js in 6 Minutes - Salman&#39;s blog">
+<meta property="og:description"
+  content="A quick introduction to the popular JavaScript library. Just In case you want deep drive in react Click here to get to the free course on react.
+Now let’s get started!
+The setup When getting started with React, you should use the simplest setup possible: an HTML file which imports the React and the ReactDOM libraries using script tags, like this:
+" />
+<meta property="og:url" content="https://isalman.dev/post/learn-react-js-in-6-minutes/" />
+<meta property="og:site_name" content="Learn React Js in 6 Minutes" />
+<meta property="og:image"
+  content="https://isalman.dev">
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+<meta property="article:published_time" content="2019-04-04 20:25:58 &#43;0530 IST" />
+
+
+
+
+
+
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-005SCZ0FF4"></script>
+<script>
+  if (navigator.doNotTrack !== '1') {
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-005SCZ0FF4');
+  }
+</script>
+
+
+</head>
+
+<body>
+  <div style="position: relative">
+  <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap open Details--on">
+    <div class="Header-item mobile-none" style="margin-top: -4px; margin-bottom: -4px;">
+      <a class="Header-link" href="https://isalman.dev">
+        <svg class="octicon" height="32" viewBox="0 0 16 16" version="1.1" width="32">
+          <path fill-rule="evenodd"
+            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+          </path>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-item d-md-none">
+      <button class="Header-link btn-link js-details-target" type="button"
+        onclick="document.querySelector('#header-search').style.display = document.querySelector('#header-search').style.display == 'none'? 'block': 'none'">
+        <svg height="24" class="octicon octicon-three-bars" viewBox="0 0 16 16" version="1.1" width="24">
+          <path fill-rule="evenodd"
+            d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z">
+          </path>
+        </svg>
+      </button>
+    </div>
+    <div style="display: none;" id="header-search"
+      class="Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
+      <div
+        class="Header-search header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to">
+        <div class="position-relative">
+          <form target="_blank" action="https://www.google.com/search" accept-charset="UTF-8" method="get"
+            autocomplete="off">
+            <label
+              class="Header-search-label form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
+              <input type="text"
+                class="Header-search-input form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+                name="q" value="" placeholder="Search" autocomplete="off">
+              <input type="hidden" name="q" value="site:https://isalman.dev">
+            </label>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
+      <a class="Header-link " href="https://isalman.dev">
+        <svg class="octicon octicon-mark-github v-align-middle" height="32" viewBox="0 0 16 16" version="1.1"
+          width="32">
+          <path fill-rule="evenodd"
+            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+          </path>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-item" style="margin-right: 0;">
+      <a href="javascript:void(0)" class="Header-link no-select" onclick="switchTheme()">
+        <svg style="fill: var(--color-profile-color-modes-toggle-moon);" class="no-select" viewBox="0 0 16 16"
+          version="1.1" width="16" height="16">
+          <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M4.52208 7.71754C7.5782 7.71754 10.0557 5.24006 10.0557 2.18394C10.0557 1.93498 10.0392 1.68986 10.0074 1.44961C9.95801 1.07727 10.3495 0.771159 10.6474 0.99992C12.1153 2.12716 13.0615 3.89999 13.0615 5.89383C13.0615 9.29958 10.3006 12.0605 6.89485 12.0605C3.95334 12.0605 1.49286 10.001 0.876728 7.24527C0.794841 6.87902 1.23668 6.65289 1.55321 6.85451C2.41106 7.40095 3.4296 7.71754 4.52208 7.71754Z">
+          </path>
+        </svg>
+      </a>
+    </div>
+  </header>
+</div>
+  
+<div>
+  <main>
+    <div class="gisthead pagehead bg-gray-light pb-0 pt-3 mb-4">
+      <div class="px-0">
+        <div class="mb-3 d-flex px-3 px-md-3 px-lg-5">
+          <div class="flex-auto min-width-0 width-fit mr-3">
+            <div class="d-flex">
+              <div class="d-none d-md-block">
+                <a class="avatar mr-2 flex-shrink-0" href="https://isalman.dev">
+                  <img class=" avatar-user"
+                    src="https://isalman.dev/images/avatar.png"
+                    width="32" height="32"></a>
+              </div>
+              <div class="d-flex flex-column">
+                <h1 class="break-word f3 text-normal mb-md-0 mb-1">
+                  <span class="author">
+                    <a href="https://isalman.dev">Salman Qureshi</a></span><span
+                    class="path-divider">/</span><strong class="css-truncate-target mr-1" style="max-width: 410px"><a
+                      href="https://isalman.dev/post/learn-react-js-in-6-minutes/">Learn React Js in 6 Minutes</a></strong>
+                </h1>
+                <div class="note m-0">
+                  Created <relative-time datetime="Thu, 04 Apr 2019 20:25:58 &#43;0530"
+                    class="no-wrap">
+                    Thu, 04 Apr 2019 20:25:58 &#43;0530</relative-time>
+
+                  
+                  <span class="file-info-divider"></span>
+                  Modified <relative-time datetime="Sun, 26 Jun 2022 20:28:06 &#43;0530"
+                    class="no-wrap">
+                    Sun, 26 Jun 2022 20:28:06 &#43;0530</relative-time>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-lg px-3 new-discussion-timeline">
+      <div class="repository-content gist-content">
+        <div>
+          <div class="js-gist-file-update-container js-task-list-container file-box">
+            <div id="file-pytest" class="file my-2">
+              <div id="post-header" class="file-header d-flex flex-md-items-center flex-items-start sticky-header" style="z-index: 2">
+                <div class="file-info d-flex flex-md-items-center flex-items-start flex-order-1 flex-auto">
+                  <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
+                    
+                    <summary id="toc-toggle" onclick="clickToc()" class="btn btn-octicon m-0 mr-2 p-2">
+                      <svg aria-hidden="true" viewBox="0 0 16 16" height="16" width="16" class="octicon octicon-list-unordered">
+                        <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
+                      </svg>
+                    </summary>
+                    <details-menu class="SelectMenu" id="toc-details" style="display: none;">
+                      <div class="SelectMenu-modal rounded-3 mt-1" style="max-height: 340px;">
+                        <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" id="toc-list">
+                        </div>
+                      </div>
+                    </details-menu>
+                      1064 Words
+                    
+
+                  </div>
+                  <div class="file-actions flex-order-2 pt-0">
+                    
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="Box-body px-5 pb-5" style="z-index: 1">
+                <article class="markdown-body entry-content container-lg"><h2 id="a-quick-introduction-to-the-popular-javascript-library">A quick introduction to the popular JavaScript library.</h2>
+<p><a href="https://web.archive.org/web/20200814103403/https://scrimba.com/g/glearnreact?ref=salmanually.com">Just In case you want deep drive in react Click here to get to the free course on react.</a></p>
+<p>Now let’s get started!</p>
+<h3 id="the-setup">The setup</h3>
+<p>When getting started with React, you should use the simplest setup possible: an HTML file which imports the  <code>React</code>  and the  <code>ReactDOM</code>  libraries using script tags, like this:</p>
+<p>_<!-- raw HTML omitted --></p>
+<!-- raw HTML omitted -->
+<pre><code>/*   
+ADD REACT CODE HERE   
+*/  
+  
+&lt;/script&gt;  
+</code></pre>
+<!-- raw HTML omitted -->
+<p>We’ve also imported Babel, as React uses something called JSX to write markup. We’ll need to transform this JSX into plain JavaScript, so that the browser can understand it.</p>
+<p>There are more two things I want you to notice:</p>
+<ol>
+<li>The  <code>&lt;div&gt;</code>  with the id of  <code>#root</code>. This is the entry point for our app. This is where our entire app will live.</li>
+<li>The  <code>&lt;script type=&quot;text/babel&quot;&gt;</code>  tag in the body. This is where we’ll write our React.js code.</li>
+</ol>
+<p>If you want to experiment with the code, check out  <a href="https://web.archive.org/web/20200814103403/https://scrimba.com/c/cmGe8Cp">this Scrimba playground.</a></p>
+<h3 id="components">Components</h3>
+<p>Everything in React is a component, and these usually take the form of JavaScript classes. You create a component by extending upon the  <code>React-Component</code>  class. Let’s create a component called  <code>Hello</code>.</p>
+<p><em>class Hello extends React.Component {<br>
+render() {<br>
+return <!-- raw HTML omitted -->Hello world!<!-- raw HTML omitted -->;<br>
+}<br>
+}</em></p>
+<p>You then define the methods for the component. In our example, we only have one method, and it’s called  <code>render()</code>.</p>
+<p>Inside  <code>render()</code>  you’ll return a description of what you want React to draw on the page. In the case above, we simply want it to display an  <code>h1</code>  tag with the text  <em>Hello world!</em>  inside it.</p>
+<p>To get our tiny application to render on the screen we also have to use  <code>ReactDOM.render()</code>:</p>
+<p>ReactDOM.render(<br>
+<!-- raw HTML omitted -->,<br>
+document.getElementById(&ldquo;root&rdquo;)<br>
+);</p>
+<p>So this is where we connect our  <code>Hello</code>  component with the entry point for the app (<code>&lt;div id=&quot;root&quot;&gt;&lt;/div&gt;</code>). It results in the following:</p>
+<p><img src="https://web.archive.org/web/20200814103403im_/https://i0.wp.com/cdn-images-1.medium.com/max/1600/1*T-bmSzg0KlijyB3dG1M-ow.png?w=696&amp;ssl=1" alt=""></p>
+<p>The HTML’ish syntax we just looked at (<code>&lt;h1&gt;</code>  and  <code>&lt;Hello/&gt;</code>) is the JSX code I mentioned earlier. It’s not actually HTML, though what you write there does end up as HTML tags in the DOM.</p>
+<p>The next step is to get our app to handle data.</p>
+<h3 id="handling-data">Handling data</h3>
+<p>There are two types of data in React: props and state. The difference between the two is a bit tricky to understand in the beginning, so don’t worry if you find it a bit confusing. It’ll become easier once you start working with them.</p>
+<p>The key difference is that state is private and can be changed from within the component itself. Props are external, and not controlled by the component itself. It’s passed down from components higher up the hierarchy, who also control the data.</p>
+<p><strong>A component can change its internal state directly. It can not change its props directly.</strong></p>
+<p>Let’s take a closer look at props first.</p>
+<h3 id="props">Props</h3>
+<p>Our  <code>Hello</code>  component is very static, and it renders out the same message regardless. A big part of React is reusability, meaning the ability to write a component once, and then reuse it in different use cases — for example, to display different messages.</p>
+<p>To achieve this type of reusability, we’ll add props. This is how you pass props to a component (highlighted in bold):</p>
+<p><em>ReactDOM.render(<br>
+&lt;Hello</em> <strong><em>message=&ldquo;my friend&rdquo;</em></strong> <em>/&gt;,<br>
+document.getElementById(&ldquo;root&rdquo;)<br>
+);</em></p>
+<p>This prop is called  <code>message</code>  and has the value “my friend”. We can access this prop inside the Hello component by referencing  <code>this.props.message</code>, like this:</p>
+<p><em>class Hello extends React.Component {<br>
+render() {<br>
+return <!-- raw HTML omitted -->Hello {</em><strong><em>this.props.message</em></strong><em>}!<!-- raw HTML omitted -->;<br>
+}<br>
+}</em></p>
+<p>As a result, this is rendered on the screen:</p>
+<p><img src="https://web.archive.org/web/20200814103403im_/https://i1.wp.com/cdn-images-1.medium.com/max/1600/1*M0-2Ct0K3SARZLSwIzgdJw.png?w=696&amp;ssl=1" alt=""></p>
+<p>The reason we’re writing  <code>{this.props.message}</code>  with curly braces is because we need to tell the JSX that we want to add a JavaScript expression. This is called  <strong>escaping</strong><em>.</em></p>
+<p>So now we have a reusable component which can render whatever message we want on the page. Woohoo!</p>
+<p>However, what if we want the component to be able to change its own data? Then we have to use state instead!</p>
+<h3 id="state">State</h3>
+<p>The other way of storing data in React is in the component’s state. And unlike props — which can’t be changed directly by the component — the state can.</p>
+<p>So if you want the data in your app to change — for example based on user interactions — it must be stored in a component’s state somewhere in the app.</p>
+<h4 id="initializing-state">Initializing state</h4>
+<p>To initialize the state, simply set  <code>this.state</code>in the  <code>constructor()</code>  method of the class. Our state is an object which in our case only has one key called  <code>message</code>.</p>
+<p>_class Hello extends React.Component {</p>
+<pre><code>constructor(){  
+    super();  
+    this.state = {  
+        message: &quot;my friend (from state)!&quot;  
+    };  
+}  
+  
+render() {  
+    return &lt;h1&gt;Hello {this.state.message}!&lt;/h1&gt;;  
+}  
+</code></pre>
+<p>}_</p>
+<p>Before we set the state, we have to call  <code>super()</code>  in the constructor. This is because  <code>this</code>  is uninitialized before  <code>super()</code>  has been called.</p>
+<h4 id="changing-the-state">Changing the state</h4>
+<p>To modify the state, simply call  <strong>this.setState(),</strong>  passing in the new state object as the argument. We’ll do this inside a method which we’ll call  <code>updateMessage</code>.</p>
+<p>_class Hello extends React.Component {</p>
+<pre><code>constructor(){  
+    super();  
+    this.state = {  
+        message: &quot;my friend (from state)!&quot;  
+    };  
+</code></pre>
+<p>_ <strong><em>this.updateMessage = this.updateMessage.bind(this);</em></strong> <em>}</em></p>
+<p><strong>updateMessage() {<br>
+this.setState({<br>
+message: &ldquo;my friend (from changed state)!&rdquo;<br>
+});<br>
+}</strong></p>
+<p>_   render() {<br>
+return <!-- raw HTML omitted -->Hello {this.state.message}!<!-- raw HTML omitted -->;<br>
+}<br>
+}_</p>
+<blockquote>
+<p>NOTE: TO MAKE THIS WORK, WE ALSO HAD TO BIND THE  <code>THIS</code>  KEYWORD TO THE  <code>UPDATEMESSAGE</code>  METHOD. OTHERWISE WE COULDN’T HAVE ACCESSED  <code>THIS</code>  IN THE METHOD.</p>
+</blockquote>
+<p>The next step is to create a button to click on, so that we can trigger the  <code>updateMessage()</code>  method.</p>
+<p>So let’s add a button to the  <code>render()</code>  method:</p>
+<p><em>render() {<br>
+return (<br>
+<!-- raw HTML omitted --><br>
+<!-- raw HTML omitted -->Hello {this.state.message}!<!-- raw HTML omitted --><br>
+&lt;button</em> <strong><em>onClick={this.updateMessage}</em></strong><em>&gt;Click me!<!-- raw HTML omitted --><br>
+<!-- raw HTML omitted -->  <br>
+)<br>
+}</em></p>
+<p>Here, we’re hooking an event listener onto the button, listening for the  <strong>onClick</strong>  event. When this is triggered, we call the  <strong>updateMessage</strong>  method.</p>
+<p>Here’s the entire component:</p>
+<p>_class Hello extends React.Component {</p>
+<pre><code>constructor(){  
+    super();  
+    this.state = {  
+        message: &quot;my friend (from state)!&quot;  
+    };  
+    this.updateMessage = this.updateMessage.bind(this);  
+}_
+</code></pre>
+<p><em>updateMessage() {<br>
+this.setState({<br>
+message: &ldquo;my friend (from changed state)!&rdquo;<br>
+});<br>
+}</em></p>
+<p><em>render() {<br>
+return (<br>
+<!-- raw HTML omitted --><br>
+<!-- raw HTML omitted -->Hello {this.state.message}!<!-- raw HTML omitted --><br>
+&lt;button</em> <strong><em>onClick={this.updateMessage}</em></strong><em>&gt;Click me!<!-- raw HTML omitted --><br>
+<!-- raw HTML omitted -->  <br>
+)<br>
+}<br>
+}</em></p>
+<p>The  <strong>updateMessage</strong>  method then calls  <strong>this.setState()</strong>  which changes the  <code>this.state.message</code>  value. And when we click the button, here’s how that will play out:</p>
+<p><img src="https://web.archive.org/web/20200814103403im_/https://i2.wp.com/cdn-images-1.medium.com/max/1600/1*D1_y0QiLHFcrwKo56C7VWg.png?w=696&amp;ssl=1" alt=""></p>
+<p>Congrats! You now have a very basic understanding of the most important concepts in React.</p>
+<p>If you want to learn more, be sure to check out our  <a href="https://web.archive.org/web/20200814103403/https://scrimba.com/g/glearnreact?ref=salmanually.com">free React course on Scrimba.</a></p>
+<p>Published in  <a href="https://web.archive.org/web/20200814103403/https://medium.freecodecamp.org/">FreeCodeCamp</a></p>
+<blockquote>
+<p>This article was recovered from my old blog salmanually.com and reposted here on (26/06/2022)
+<a href="https://web.archive.org/web/20200814103403/https://salmanually.com/2019/04/04/learn-react-js-in-6-minutes/">Check orgiginal Archive.org - wayback version of this post</a></p>
+</blockquote></article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+<script type="application/javascript" src='https://isalman.dev/js/toc.js'></script>
+<link rel="stylesheet" href='https://isalman.dev/css/toc.css' />
+
+<div id="gitalk-container" class="gitalk-container"></div>
+<link rel="stylesheet" href='https://isalman.dev/css/gitalk.css'>
+<script src='https://isalman.dev/js/gitalk.min.js'></script>
+<script>
+  const gitalk = new Gitalk({
+    clientID: '4faed7d62c722f3b70f8',
+    clientSecret: 'ead79bc481425394dd8e1f0fdc3ed40aa639751a',
+    repo: 'blog-comments',
+    owner: 'hotheadhacker',
+    admin: ['hotheadhacker'],
+    id: eval("location.pathname"), 
+    distractionFreeMode: false 
+  });
+  (function() {
+    gitalk.render('gitalk-container');
+  })();
+</script>
+
+
+  <div class="footer container-xl width-full p-responsive">
+  <div
+    class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between flex-sm-items-center pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mr-lg-4" href="https://isalman.dev">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24">
+        <path fill-rule="evenodd"
+          d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+        </path>
+      </svg>
+    </a>
+    <ul class="list-style-none d-flex flex-wrap col-12 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+      
+      <li class="mr-3 mr-lg-0"><a href='https://github.com/hotheadhacker'>Salman Qureshi</a></li>
+      
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+
+
+</div>
+</body>
+
+<script type="application/javascript" src="https://isalman.dev/js/github-style.js"></script>
+
+
+
+</html>
