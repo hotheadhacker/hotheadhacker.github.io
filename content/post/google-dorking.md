@@ -8,7 +8,7 @@ We all use Google or other search engine for our daily queries and other questio
 
 ![How to be anything](https://media2.giphy.com/media/xQaeWyINrUXOE/giphy.gif?cid=790b76111fc6704fc731d0b9c3edbb2e24b2d51023ef1561&rid=giphy.gif&ct=g) 
 
-But they are might be some issues when you want to search something but you cannot get the results because that search topic is either new or does not have many public results. This problem is mostly faced by researchers where the information for the particular neeche is very limited.
+But there might be some issues when you want to search something but you cannot get the results because that search topic is either new or does not have many public results. This problem is mostly faced by researchers where the information for the particular neeche is very limited.
 
 
 Google no doubt has best algorithm that my our query.
@@ -56,7 +56,7 @@ _finds strings in the title of a page_
   
 
 >Example: intitle:"intitle:"sopore 1993
->![sopore 1993](https://github.com/hotheadhacker/hotheadhacker.github.io/blob/main/static/images/posts/sopre-1993.png)"
+>![sopore 1993](https://raw.githubusercontent.com/hotheadhacker/hotheadhacker.github.io/main/static/images/posts/sopre-1993.png)"
 
   
 
@@ -162,4 +162,4 @@ Example: allintext: "dark side of kashmir politics"
   
 
 The above commands are very few but powerful dorking techniques all you have to do is copy the example texts and paste it on google search box and replace queries by your own terms.
-##### I hope you find whateverr your're looking for.
+##### I hope you find whateverr you're looking for.
