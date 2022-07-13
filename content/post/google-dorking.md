@@ -56,7 +56,7 @@ _finds strings in the title of a page_
   
 
 >Example: intitle:"intitle:"sopore 1993
->![sopore 1993](images/posts/sopre-1993.png)"
+>![sopore 1993](https://github.com/hotheadhacker/hotheadhacker.github.io/blob/main/static/images/posts/sopre-1993.png)"
 
   
 
