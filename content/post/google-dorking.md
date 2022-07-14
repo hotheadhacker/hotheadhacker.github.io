@@ -11,7 +11,7 @@ We all use Google or other search engine for our daily queries and other questio
 But there might be some issues when you want to search something but you cannot get the results because that search topic is either new or does not have many public results. This problem is mostly faced by researchers where the information for the particular neeche is very limited.
 
 
-Google no doubt has best algorithm that my our query.
+Google no doubt has best algorithm that mostly covers our query.
 
 To make search engine efficient Google sometimes basicly limits its search algorithm but with google dorking we can literally find anything that's on the web.
 
@@ -23,11 +23,11 @@ Google literally indexes every. Including if robots.txt 😅
 
   
 
-When we search on google are you was internet we basically are using public internet that's one percent of actual internet information well rest resides on dark web.
+When we search on google are you was internet we basically are using public internet that's 1% of actual internet information well rest resides on dark web.
 
   
 
-But here we do not have any intention to use dark web but the point is we cannot even access the one person of public internet information that's actually out there so the Google darking gives tools and certain approach badarfully legal and specifically for advance users.
+But here we do not have any intention to use dark web but the point is we cannot even access that 1% of public internet information that's actually out there so the Google darking gives tools and certain approach badarfully legal and specifically for advance users.
 
   
 
@@ -55,8 +55,9 @@ _finds strings in the title of a page_
 
   
 
->Example: intitle:"intitle:"sopore 1993
->![sopore 1993](https://raw.githubusercontent.com/hotheadhacker/hotheadhacker.github.io/main/static/images/posts/sopre-1993.png)"
+>Example: intitle:"intitle:"sopore 1993"
+
+![sopore 1993](https://raw.githubusercontent.com/hotheadhacker/hotheadhacker.github.io/main/static/images/posts/sopre-1993.png)
 
   
 
@@ -162,4 +163,4 @@ Example: allintext: "dark side of kashmir politics"
   
 
 The above commands are very few but powerful dorking techniques all you have to do is copy the example texts and paste it on google search box and replace queries by your own terms.
-##### I hope you find whateverr you're looking for.
+##### I hope you find whatever you're looking for.
