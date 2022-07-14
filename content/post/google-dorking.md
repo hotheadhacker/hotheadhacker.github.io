@@ -27,11 +27,11 @@ When we search on google are you was internet we basically are using public inte
 
   
 
-But here we do not have any intention to use dark web but the point is we cannot even access that 1% of public internet information that's actually out there so the Google darking gives tools and certain approach badarfully legal and specifically for advance users.
+But here we do not have any intention to use dark web but the point is we cannot even access that 1% of public internet information that's actually out there so the Google darking gives tools and certain approach that is complete legal and specifically for advance users.
 
   
 
-Google Dorking is very easy to improvement well in this post I will try to cover basics of Google darking because they are lot of queries and message that will make this post the trade infinite.
+Google Dorking is very easy to improvement well in this post I will try to cover basics of Google darking because there are lot of queries and message that will make this post infinite long.
 
   
   
