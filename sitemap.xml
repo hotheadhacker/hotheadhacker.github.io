@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://isalman.dev/post/google-dorking/</loc>
-    <lastmod>2022-07-14T11:26:30+05:30</lastmod>
+    <loc>https://isalman.dev/post/how-to-mount-g-drive-to-linux-file-system/</loc>
+    <lastmod>2022-07-27T19:43:57+05:30</lastmod>
   </url><url>
     <loc>https://isalman.dev/post/</loc>
-    <lastmod>2022-07-14T11:26:30+05:30</lastmod>
+    <lastmod>2022-07-27T19:43:57+05:30</lastmod>
   </url><url>
     <loc>https://isalman.dev/</loc>
+    <lastmod>2022-07-27T19:43:57+05:30</lastmod>
+  </url><url>
+    <loc>https://isalman.dev/post/google-dorking/</loc>
     <lastmod>2022-07-14T11:26:30+05:30</lastmod>
   </url><url>
     <loc>https://isalman.dev/ur/</loc>
