@@ -69,11 +69,11 @@ google-drive-ocamlfuse -debug google-drive-mounted
 ```
 
 
-**My Experience**
+📔 **My Experience**
 
 >This is an amazing feature I found it today (27-07-2022) and I followed an article [Article Link](https://www.techrepublic.com/article/how-to-mount-your-google-drive-on-linux-with-google-drive-ocamlfuse/) that was authored in 2016, I was surprised to see this is still working and being maintained as google OAuth forced every old app to migrate to new version
 
-**Warning**
+⚠️ **Warning**
 > Since this is not official google drive package, don't connect your personal google drive with it, use some other google account whose info on being compromised will not make you question your existence 😅, Stay SAFU
 
 
